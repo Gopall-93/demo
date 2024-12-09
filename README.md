@@ -1,2 +1,2 @@
 # demo
-Starting with GIT &amp; GITHUB
+Starting with GIT &amp; GITHUB.
